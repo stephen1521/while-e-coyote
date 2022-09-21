@@ -5,3 +5,4 @@ while(input.length <= 10) {
     console.log(input);
     input += str;
 }
+console.log(input);
